@@ -3,5 +3,6 @@ Staging area would be for work I considered complete. Seperates changes
 Adding the incremental changes to the staging area
 Branches could help innovate while not interuping a stable product
 I can see where the changes were made and if they can be merged
-All previously reachable commit are merged together, To understand the hirearchy. 
+All previously reachable commit are merged together, To understand the hirearchy.
+Sometimes we want to auto resolve sometimes we do not 
 
