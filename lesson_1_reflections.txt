@@ -1,0 +1,7 @@
+able to biew lines that where added removed or changed
+I would be able to revert to an older verison if its messed up
+I will have a connection to the point in time I made the changes
+In software development the files are related to one another
+Scan the log for the changes, record the IDs and compare
+I can try something new without fear of not being able to get something working again
+Start understanding devops

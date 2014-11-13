@@ -1,0 +1,1 @@
+The meta data for the repository is created and git starts its magic
