@@ -1,1 +1,3 @@
 The meta data for the repository is created and git starts its magic
+Staging area would be for work I considered complete. Seperates changes
+
